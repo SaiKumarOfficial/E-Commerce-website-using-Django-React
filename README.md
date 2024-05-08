@@ -7,7 +7,8 @@ This project is an E-Commerce website built using Django on the backend and Reac
 ## Mindmap
 You can check the project mindmap [here](https://coggle.it/diagram/ZjMdhx8BY6Wpk0y2/t/api-d)
 
-![ecom_project_mindmap](https://github.com/SaiKumarOfficial/E-Commerce-website-using-Django-React/assets/95096218/1613a96f-01eb-490c-9941-eca29151f09c)
+![ecom_project_mindmap](https://github.com/SaiKumarOfficial/E-Commerce-website-using-Django-React/assets/95096218/9bd5029a-3ae0-47cf-991f-0e532580f40d)
+
 ## Features
 
 - **User Authentication**: Users can sign up, log in, and manage their accounts.
