@@ -9,7 +9,7 @@ const Signin = () => {
     name: "",
     email: "sai680513@gmail.com",
     password: "12345",
-    error: "",
+    error: false,
     success: false,
     loading: false,
     didRedirect: false,
@@ -140,9 +140,9 @@ const Signin = () => {
       {loadingMessage()}
 
       {signInForm()}
-      <p className="text-center">
+      {/* <p className="text-center">
         {JSON.stringify(values)}
-      </p>
+      </p> */}
       {performRedirect()}
     </Base>
   );
